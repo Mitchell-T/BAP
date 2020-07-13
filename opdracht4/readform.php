@@ -7,7 +7,7 @@ $hobby = $_POST['hobby'];
 
 // print the text
 echo "Jouw naam is $naam.";
-echo "<br>je woont in $leeftijd.";
+echo "<br>je bent $leeftijd jaar oud.";
 echo "<br>Je hobby is $hobby.";
 echo "<br><br>";
 
